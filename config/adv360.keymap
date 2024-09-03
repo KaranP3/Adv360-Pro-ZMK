@@ -50,7 +50,7 @@
             bindings = <
 &kp ESC  &trans     &trans     &trans         &trans     &trans     &trans                                                  &trans         &trans     &trans     &trans         &trans     &trans         &trans
 &trans   &trans     &trans     &trans         &trans     &kp LG(J)  &kp LG(TAB)                                             &kp PAGE_UP    &trans     &trans     &kp LG(LS(N))  &trans     &trans         &trans
-&trans   &kp ESC    &kp LG(S)  &kp LG(LS(P))  &kp LG(P)  &kp LG(F)  &kp GRAVE      &trans       &trans      &trans  &trans  &kp PAGE_DOWN  &kp LEFT   &kp DOWN   &kp UP_ARROW   &kp RIGHT  &kp BACKSPACE  &trans
+&trans   &kp ESC    &kp LG(S)  &kp LG(LS(P))  &kp LG(P)  &kp LG(F)  &kp LG(GRAVE)  &trans       &trans      &trans  &trans  &kp PAGE_DOWN  &kp LEFT   &kp DOWN   &kp UP_ARROW   &kp RIGHT  &kp BACKSPACE  &trans
 &trans   &kp LG(Z)  &kp LG(X)  &kp LG(C)      &kp LG(V)  &kp LG(B)                              &trans      &trans                         &kp LG(N)  &kp LG(T)  &trans         &trans     &trans         &trans
 &trans   &trans     &trans     &trans         &trans                &kp LG(SPACE)  &kp LG(TAB)  &trans      &trans  &trans  &trans                    &trans     &kp RGUI       &trans     &trans         &trans
             >;
